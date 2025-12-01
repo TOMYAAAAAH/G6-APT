@@ -7,18 +7,82 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="bg-pink-50">
 
-<div class="grid grid-cols-3">
-    <div class="col-span-2">
-        <h1 class="text-[3rem] font-[Telma]">Rose</h1>
-        <p>Roseanne Park (born 11 February 1997), known mononymously as Rosé (Korean: 로제), is a New Zealand and South Korean singer and songwriter. Born in New Zealand and raised in Australia, Rosé moved to South Korea and signed with label YG Entertainment following a successful audition in 2012. She rose to prominence as a member of the South Korean girl group Blackpink, which debuted in August 2016 and became one of the best-selling girl groups of all time.</p>
+<div class="max-w-6xl mx-auto px-8 py-12">
+    <div class="grid grid-cols-3 gap-8 mb-16">
+        <div class="col-span-2 flex flex-col justify-center">
+            <h1 class="text-[9rem] font-[Telma] text-pink-900">Rose</h1>
+            <p class="text-gray-700 leading-relaxed text-lg">Roseanne Park (born 11 February 1997), known mononymously as Rosé (Korean: 로제), is a New Zealand and South
+                Korean singer and songwriter. Born in New Zealand and raised in Australia, Rosé moved to South Korea and
+                signed with label YG Entertainment following a successful audition in 2012. She rose to prominence as a
+                member of the South Korean girl group Blackpink, which debuted in August 2016 and became one of the
+                best-selling girl groups of all time.</p>
+        </div>
+
+        <img class="rounded-lg shadow-lg object-cover w-full h-full"
+             src="https://www.musicmundial.com/wp-content/uploads/2023/04/Rose-de-BLACKPINK-enamora-a-sus-fanaticos-con-su-deslumbrante-cambio-de-look-2.jpg"
+             alt="rose">
+    </div>
+    <div class="flex items-center justify-between mb-8">
+        <h2 class="text-3xl font-bold text-pink-900">Tous les sons</h2>
+
+        <div class="relative inline-block">
+            <select class="block appearance-none w-48 bg-white border border-pink-300 text-gray-700 py-2 px-4 pr-8 rounded-lg leading-tight focus:outline-none focus:border-pink-500">
+                <option>popularity</option>
+                <option>release date</option>
+            </select>
+            <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
+                <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                    <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/>
+                </svg>
+            </div>
+        </div>
     </div>
 
-    <img src="https://www.musicmundial.com/wp-content/uploads/2023/04/Rose-de-BLACKPINK-enamora-a-sus-fanaticos-con-su-deslumbrante-cambio-de-look-2.jpg"
-         alt="rose">
-</div>
 
+    <div class="columns-4 gap-6">
+        <div class="mb-6 break-inside-avoid">
+            <img class="rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 w-full" src="img/apt.jpg">
+            <span class="block mt-3 text-gray-700 font-medium">APT</span>
+        </div>
+
+        <div class="mb-6 break-inside-avoid">
+            <img class="rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 w-full" src="img/ground.jpg">
+            <span class="block mt-3 text-gray-700 font-medium">On The Ground</span>
+        </div>
+
+        <div class="mb-6 break-inside-avoid">
+            <img class="rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 w-full" src="img/number-one.jpg">
+            <span class="block mt-3 text-gray-700 font-medium">Number One Girl</span>
+        </div>
+
+        <div class="mb-6 break-inside-avoid">
+            <img class="rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 w-full" src="img/rosie.jpg">
+            <span class="block mt-3 text-gray-700 font-medium">gameboy</span>
+        </div>
+
+        <div class="mb-6 break-inside-avoid">
+            <img class="rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 w-full" src="img/on-my-mind.jpg">
+            <span class="block mt-3 text-gray-700 font-medium">On My Mind</span>
+        </div>
+
+        <div class="mb-6 break-inside-avoid">
+            <img class="rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 w-full" src="img/rosie.jpg">
+            <span class="block mt-3 text-gray-700 font-medium">call it the end</span>
+        </div>
+
+        <div class="mb-6 break-inside-avoid">
+            <img class="rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 w-full" src="img/rosie.jpg">
+            <span class="block mt-3 text-gray-700 font-medium">3am</span>
+        </div>
+
+        <div class="mb-6 break-inside-avoid">
+            <img class="rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 w-full" src="img/rosie.jpg">
+            <span class="block mt-3 text-gray-700 font-medium">two years</span>
+        </div>
+    </div>
+</div>
 
 </body>
 </html>
