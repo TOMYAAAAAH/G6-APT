@@ -1,0 +1,29 @@
+{
+  "albums": [
+    {
+      "name": "R",
+      "img": null,
+      "date": 202103
+    },
+    {
+      "name": "APT",
+      "img": null,
+      "date": 202410
+    },
+    {
+      "name": "Messy",
+      "img": null,
+      "date": 202505
+    },
+    {
+      "name": "On My Mind",
+      "img": null,
+      "date": 202506
+    },
+    {
+      "name": "Rosie",
+      "img": null,
+      "date": 202412
+    }
+  ]
+}

@@ -23,19 +23,20 @@ Le daily log est un outil de **réflexion**, de **suivi de progression** et de *
 ## ✍️ Format du daily (à remplir chaque soir)
 
 - ✅ **1 chose que j’ai bien comprise aujourd’hui :**  
-  _Votre réponse ici_
+  Les avantages et contraintes des differentes technos CSS
+  On a soudé l'équipe 👍
 
 - ⚠️ **1 difficulté majeure rencontrée :**  
-  _Votre réponse ici_
+  flexbox natif 🦎
 
 - ❓ **1 question pour demain :**  
-  _Votre question ici_
+  Comment bien gérer un player de musique ?
 
 - 💡 **1 chose que je ferais autrement la prochaine fois :**  
-  _Votre réponse ici_
+  Se concentrer sur le tailwind
 
 - 🤝 **Comment s’est passée la collaboration dans l’équipe ?**  
-  _Votre retour ici_
+  Masterclass
 
 ---
 
