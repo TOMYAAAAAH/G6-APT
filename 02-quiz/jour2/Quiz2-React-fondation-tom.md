@@ -12,7 +12,7 @@ Un composant React doit toujours :
 - C. Être placé dans le dossier `components`  
 - D. S’appeler avec une balise comme `<MonComposant />`
 
-**Réponses attendues :** 
+**Réponses attendues : A, B, D** 
 
 ---
 
@@ -24,7 +24,7 @@ Que représente JSX ?
 - C. Du HTML dans un fichier JavaScript  
 - D. Une syntaxe qui permet d’utiliser du JS entre `{}`
 
-**Réponses attendues :** 
+**Réponses attendues : B** 
 
 ---
 
@@ -36,14 +36,14 @@ Quel est le rôle principal des *props* ?
 - C. Personnaliser un composant  
 - D. Forcer le rendu d’un composant
 
-**Réponses attendues :**
+**Réponses attendues : A, B**
 
 ---
 
 ## 🧩 Question 4 — Vrai / Faux  
 Les props peuvent être modifiées directement dans le composant enfant.
 
-**Réponse attendue :** ❌ Faux (elles sont immuables)
+**Réponse attendue :** ❌ Faux
 
 ---
 
@@ -67,7 +67,7 @@ Quelle méthode permet d’afficher une liste d’éléments en React ?
 - C. `.loop()`  
 - D. `.filter()`
 
-**Réponse attendue :** 
+**Réponse attendue : A, B** 
 ---
 
 ## 🧩 Question 7  
@@ -78,7 +78,7 @@ Pourquoi découper une maquette en composants réutilisables ?
 - C. Pour faciliter la maintenance  
 - D. Pour styliser plus facilement
 
-**Réponses attendues :** 
+**Réponses attendues : A, B, C, D** 
 ---
 
 ## 🧩 Question 8  
@@ -89,7 +89,7 @@ Dans React, le flux de données par défaut est :
 - C. Enfant → Parent  
 - D. Circulaire
 
-**Réponse attendue :**
+**Réponse attendue : C**
 
 ---
 
@@ -101,7 +101,7 @@ Quelle structure d’arborescence est considérée comme une bonne pratique ?
 - C. Mélanger HTML et composants dans plusieurs fichiers  
 - D. Ne créer des fichiers que pour le style
 
-**Réponse attendue :** 
+**Réponse attendue :B** 
 
 ---
 
@@ -114,3 +114,5 @@ function Title({ text }) {
 }
 
 <Title text="Hello React" />```
+
+un h1 avec hello react as text
