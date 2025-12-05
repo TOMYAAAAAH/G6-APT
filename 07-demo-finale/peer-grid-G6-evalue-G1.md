@@ -13,40 +13,41 @@ Date : 05 decembre 2025
 
 ## 1. Compréhension & Clarté
 
-- Pitch clair : 👍 / ⚠️ / ✨
-- Logique compréhensible : 👍 / ⚠️ / ✨
-- Démo fluide : 👍 / ⚠️ / ✨
-- Explications accessibles : 👍 / ⚠️ / ✨
+- Pitch clair : 3
+- Logique compréhensible : 3
+- Démo fluide : 3
+- Explications accessibles : 3
 
 Commentaires de l'équipe :
 
 ## 2. Réalisation
 
-- Navigation cohérente : 👍 / ⚠️ / ✨
-- Fonctionnalités opérationnelles : 👍 / ⚠️ / ✨
-- Structure du code claire : 👍 / ⚠️ / ✨
-- UI/UX cohérente : 👍 / ⚠️ / ✨
-- Bonnes pratiques visibles : 👍 / ⚠️ / ✨
+- Navigation cohérente : 3
+- Fonctionnalités opérationnelles : 3
+- Structure du code claire : 2/3
+- UI/UX cohérente : 2
+- Bonnes pratiques visibles : 3
 
 Commentaires de l'équipe :
 
 ## 3. Collaboration & Organisation
 
-- Répartition du travail : 👍 / ⚠️ / ✨
-- Git (branches, PR) : 👍 / ⚠️ / ✨
-- Communication : 👍 / ⚠️ / ✨
-- Gestion du temps : 👍 / ⚠️ / ✨
+- Répartition du travail : 2/3
+- Git (branches, PR) : 3
+- Communication : ?
+- Gestion du temps : 3
 
 Commentaires de l'équipe :
 
 ## 4. Progression
 
-- Difficultés surmontées : 👍 / ⚠️ / ✨
-- Compréhension React : 👍 / ⚠️ / ✨
-- Progression visible : 👍 / ⚠️ / ✨
-- Justification des choix techniques : 👍 / ⚠️ / ✨
+- Difficultés surmontées : 3
+- Compréhension React : 3
+- Progression visible : 3
+- Justification des choix techniques : 3
 
 Commentaires de l'équipe :
+Ils ont eu des difficultés sur la gestions des branches et la génération IA, mais ont réussi à surmonter tout ça, bien joué ! 👍
 
 ## Synthèse
 
@@ -60,4 +61,4 @@ Commentaires de l'équipe :
 
 ### ✨ Inspirations
 
-- Note de l'équipe :
+- Note de l'équipe : 
